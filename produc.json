@@ -1,0 +1,347 @@
+{
+    "name": "src",
+    "type": "folder",
+    "children": [
+      {
+        "name": "accessories",
+        "type": "folder",
+        "subcategories": [
+          {
+            "name": "keels",
+            "type": "folder",
+            "products": [
+              {
+                "sku": "1234567",
+                "name": "deck",
+                "price": "9990",
+                "discount": "10",
+                "url": ""
+              }
+            ]
+          },
+          {
+            "name": "surfboard",
+            "type": "folder",
+            "products": [
+              {
+                "sku": "",
+                "name": "",
+                "price": "",
+                "discount": "",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "clothes",
+        "type": "folder",
+        "subcategories": [
+          {
+            "name": "children",
+            "type": "folder",
+            "subcategories": [
+              {
+                "name": "child",
+                "type": "folder",
+                "subcategories": [
+                  {
+                    "name": "01",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "02",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "girl",
+                "type": "folder",
+                "subcategories": [
+                  {
+                    "name": "01",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "02",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "men",
+            "type": "folder",
+            "subcategories": [
+              {
+                "name": "short",
+                "type": "folder",
+                "products": [
+                  {
+                    "sku": "",
+                    "name": "",
+                    "price": "",
+                    "discount": "",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "name": "swimsuit",
+                "type": "folder",
+                "products": [
+                  {
+                    "sku": "",
+                    "name": "",
+                    "price": "",
+                    "discount": "",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "name": "tShirts",
+                "type": "folder",
+                "products": [
+                  {
+                    "sku": "",
+                    "name": "",
+                    "price": "",
+                    "discount": "",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "name": "wetsuit",
+                "type": "folder",
+                "subcategories": [
+                  {
+                    "name": "1M",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "2M",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "3M",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4M",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "woman",
+            "type": "folder",
+            "subcategories": [
+              {
+                "name": "Short",
+                "type": "folder",
+                "products": [
+                  {
+                    "sku": "",
+                    "name": "",
+                    "price": "",
+                    "discount": "",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "name": "swimsuit",
+                "type": "folder",
+                "products": [
+                  {
+                    "sku": "",
+                    "name": "",
+                    "price": "",
+                    "discount": "",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "name": "tShirts",
+                "type": "folder",
+                "products": [
+                  {
+                    "sku": "",
+                    "name": "",
+                    "price": "",
+                    "discount": "",
+                    "url": ""
+                  }
+                ]
+              },
+              {
+                "name": "wetsuit",
+                "type": "folder",
+                "subcategories": [
+                  {
+                    "name": "1M",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "2M",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "3M",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  },
+                  {
+                    "name": "4M",
+                    "type": "folder",
+                    "products": [
+                      {
+                        "sku": "",
+                        "name": "",
+                        "price": "",
+                        "discount": "",
+                        "url": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "several",
+        "type": "folder",
+        "products": [
+          {
+            "sku": "",
+            "name": "",
+            "price": "",
+            "discount": "",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "name": "video",
+        "type": "folder",
+        "products": [
+          {
+            "sku": "",
+            "name": "",
+            "price": "",
+            "discount": "",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  }
+  
