@@ -15,42 +15,42 @@
                 "name": "deck",
                 "price": "9990",
                 "discount": "10",
-                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/01.jpeg"
+                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/01.png"
               },
               {
                 "sku": "1234567",
                 "name": "deck",
                 "price": "9990",
                 "discount": "5",
-                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/02.jpeg"
+                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/02.png"
               },
               {
                 "sku": "1234567",
                 "name": "funda tabla surf",
                 "price": "59990",
                 "discount": "5",
-                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/03.jpeg"
+                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/03.png"
               },
               {
                 "sku": "1234567",
                 "name": "funda tabla de surf 8,5",
                 "price": "69990",
                 "discount": "10",
-                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/04.jpeg"
+                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/04.png"
               },
               {
                 "sku": "1234567",
                 "name": "leanch",
                 "price": "11990",
                 "discount": "0",
-                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/05.jpeg"
+                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/05.png"
               },
               {
                 "sku": "1234567",
                 "name": "Quilla FCS",
                 "price": "14990",
                 "discount": "2",
-                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/06.jpeg"
+                "url": "https://raw.githubusercontent.com/Gruman670/openSurf/main/src/accessories/keels/06.png"
               }
             ]
           },
